@@ -1,0 +1,10 @@
+.sections__container {
+   background-image: url(../img/bg-img.png);
+   background-repeat: no-repeat;
+   background-position: 0 0;
+}
+
+.sections__title {
+   margin-top: 220px;
+   margin-bottom: 110px;
+}

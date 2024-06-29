@@ -1,13 +1,5 @@
 .sections {
    font-family: Arial, sans-serif;
-   font-style: 13px;
-   line-height: 18px;
-}
-
-.container {
    display: flex;
-   flex-direction: column;
-   align-items: center;
+   justify-content: center;
 }
-
-
