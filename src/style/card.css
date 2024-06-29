@@ -1,0 +1,37 @@
+.card {
+   box-sizing: border-box;
+   padding: 25px;
+   margin-bottom: 43px;
+   width: 340px;
+   border: 1px;
+   background-color: rgba(81, 80, 118, 0.1);
+}
+
+.card__img {
+   margin-bottom: 25px;
+}
+
+.card__category {
+   font-weight: 700;
+   font-size: 20px;
+   color: #515076;
+}
+
+.card__name {
+   font-weight: 700px;
+   font-size: 20px;
+   color: #515076;
+}
+
+.card__descriptio {
+   font-weight: 400;
+   color: #515076;
+}
+
+.card__price {
+   display: flex;
+   justify-content: space-between;
+   font-weight: 700;
+   font-size: 20px;
+   color: #515076;
+}

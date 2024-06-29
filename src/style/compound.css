@@ -1,0 +1,15 @@
+.card__compound {
+   margin-bottom: 25px;
+}
+
+.compound__name {
+   font-weight: 400;
+   font-size: 13px;
+   color: #515076;
+}
+
+.compound__list {
+   font-weight: 400;
+   font-size: 13px;
+   color: #515076;
+}
